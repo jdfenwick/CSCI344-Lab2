@@ -1,6 +1,8 @@
 CSCI344-Lab2
 ============
 
+Going to track info about Bootstrap and Foundation
+
 Using HTML, CSS, jQuery and cTwitter, build an application that does the following:
 
 1) It tracks some technology-related term(s) that are being commonly used.
