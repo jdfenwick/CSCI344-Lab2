@@ -1,7 +1,7 @@
 CSCI344-Lab2
 ============
 
-Going to track info about Bootstrap and Foundation
+Going to track info about Foundation
 
 Using HTML, CSS, jQuery and cTwitter, build an application that does the following:
 
